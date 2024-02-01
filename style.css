@@ -123,6 +123,25 @@ h2{
 
 }
 
+@media only screen and (min-width: 1340px) and (max-width: 1400px) {
+    .ctrl{
+        margin: 0 40px;
+        position: relative;
+        right: 170px;
+    }
+    
+    div .label{
+        position: relative;
+        left: 190px;
+    }
+    .fix{
+        position: relative;
+        left:-160px;
+       }
+
+}
+
+
 
 
 
